@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PCiExpress Configuratore</string>
+    <string name="register_button">Registrati!</string>
+    <string name="login_button">Login</string>
+    <string name="welcome">"Il configuratore PCiExpress ti consente di scegliere facilmente i componenti del tuo PC e comprare direttamente su Amazon! "</string>
+</resources>
